@@ -3,6 +3,8 @@
 
 // For Example:
 
+// =============Good Code=============================
+
 const array1 = ['a', 'b', 'c', 'd'];
 const array2 = ['e', 'f', 'g', 'f'];
 

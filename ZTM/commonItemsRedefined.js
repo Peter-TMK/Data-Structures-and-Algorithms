@@ -1,6 +1,10 @@
 // Given 2 arrays, cretae a function that lets users know (true/false)
 // whether these 2 arrays contain any common items
 
+// For Example:
+
+// =============Better Code=============================
+
 const array1 = ['a', 'b', 'c', 'd'];
 const array2 = ['e', 'f', 'g', 'b'];
 
