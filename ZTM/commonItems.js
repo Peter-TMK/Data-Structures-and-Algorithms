@@ -6,7 +6,7 @@
 // =============Good Code=============================
 
 const array1 = ['a', 'b', 'c', 'd'];
-const array2 = ['e', 'f', 'g', 'f'];
+const array2 = ['e', 'f', 'g', 'c'];
 
 function commonItems(arr1, arr2){
     for (let i=0; i < arr1.length; i++){
@@ -19,4 +19,5 @@ function commonItems(arr1, arr2){
     }
     return false;
 }
-commonItems(array1, array2)
+const inst = commonItems(array1, array2)
+console.log(inst)
