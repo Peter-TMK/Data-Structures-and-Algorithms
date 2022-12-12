@@ -1,5 +1,6 @@
 // const array = [3,4,5,1,2]
-const array = [4,5,6,7,0,1,2]
+// const array = [4,5,6,7,0,1,2]
+const array =  [3,1,2]
 let result = array[0];
 let left = 0, right = array.length - 1;
 
